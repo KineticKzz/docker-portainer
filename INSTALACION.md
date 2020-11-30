@@ -22,6 +22,6 @@ Una vez seguido los pasos anteriores, nos dirigiremos al navegador y accederemos
 
         http://localhost:8080
         
-Y nos deberá de aparecer una imagen como la siguiente
+Y nos deberá de aparecer una imagen como la siguiente. Creamos un usuario y la contraseña y estamos dentro
 
 ![img](https://i.imgur.com/ikNZu3W.png)
