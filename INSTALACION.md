@@ -2,7 +2,7 @@
 ## INSTALACION
 - Primero vamos a crear un volumen
 
-    docker volume create docker-portainer
+        docker volume create docker-portainer
 
 
 
