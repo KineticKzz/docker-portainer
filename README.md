@@ -15,3 +15,5 @@
 
 
 ## CONCLUSIÓN
+
+Portainer.io es una muy buena herramienta para la administración gráfica de contenedores para aquellos que no se desenvuelvan muy bien con la consola de comandos o para que se quiera administrar de manera rapida algunos contenedores, tiene una interfaz sencilla e intuitiva pero hay que aprender cada apartado del panel de control y hay que saber manejar las herramientas de portainer para que sea efectivo y eficas su usanza
