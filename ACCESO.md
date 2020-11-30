@@ -2,7 +2,7 @@
 
 - Una vez lo hemos instalado y creado la cuenta, nos aparecerá una página como la siguiente
 
-![img](https://imgur.com/QchAvFu)
+[Imagen](https://i.imgur.com/QchAvFu.png)
 
 
 
