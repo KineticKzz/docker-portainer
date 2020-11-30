@@ -24,4 +24,4 @@ Una vez seguido los pasos anteriores, nos dirigiremos al navegador y accederemos
         
 Y nos deberá de aparecer una imagen como la siguiente
 
-![img](https://slaguens.imgur.com/all)
+![img](https://i.imgur.com/ikNZu3W.png)
