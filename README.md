@@ -8,7 +8,6 @@
 5. [DESPLIEGUE DE CONTENEDORES](https://github.com/sergiolaguens/docker-portainer/blob/main/DESPLIEGUE.md)
 
 ## REFERENCIAS
-Agradecimientos a:
 
 - [SOLIDGEARGROUP](https://solidgeargroup.com/portainer-io-monitorea-y-administra-docker-de-manera-sencilla-e-intuitiva/)
 - [COLABORAORIO](https://colaboratorio.net/davidochobits/sysadmin/2018/gestion-grafica-docker-portainer/)
