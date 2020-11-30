@@ -11,6 +11,7 @@
 
 - [SOLIDGEARGROUP](https://solidgeargroup.com/portainer-io-monitorea-y-administra-docker-de-manera-sencilla-e-intuitiva/)
 - [COLABORAORIO](https://colaboratorio.net/davidochobits/sysadmin/2018/gestion-grafica-docker-portainer/)
+- [PELADONERD](https://www.youtube.com/watch?v=TSot5AnS-mk)
 
 
 ## CONCLUSIÓN
