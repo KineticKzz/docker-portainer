@@ -18,3 +18,10 @@ Por último hemos compartido nuestro volumen creado en local con la carpeta /dat
 
 
 ## CONFIGURACION
+Una vez seguido los pasos anteriores, nos dirigiremos al navegador y accederemos a localhost:puerto. En mi caso será lo siguiente
+
+        http://localhost:8080
+        
+Y nos deberá de aparecer una imagen como la siguiente
+
+![img](https://slaguens.imgur.com/all)
