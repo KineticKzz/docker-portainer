@@ -8,10 +8,10 @@
 
 - Seleccionamos local y nos aparecerá la siguiente pantalla, donde te exige que, en el contenedor que hemos creado, tengamos el enlace de /var/run/docker.sock
 
-![img](https://i.imgur.com/bLFnPqF.png)
+[Imagen](https://i.imgur.com/bLFnPqF.png)
 
 
 
 - Hacemos click en connect y estaremos dentro
 
-![img](https://i.imgur.com/E7JR0js.png)
+[Imagen](https://i.imgur.com/E7JR0js.png)
